@@ -9,7 +9,7 @@
 - Phishing Links File download (https://drive.google.com/file/d/1UK_1b4qOQcEf-4r8OJZypsAYEMbA52t-/view
 
 - Task 2 :
-- PASSWORD STRENGTH CHECKER
+- Password Strength Checker
   - Develop a tool to assess the strength of passwords entered by users. Implement
     algorithms to analyze factors such as length, complexity, and uniqueness to provide
     feedback on password strength.
