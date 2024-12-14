@@ -1,8 +1,6 @@
 # Welcome to the Brainwave_Matrix_Intern repository!
 
-
-
-## Tasks Completed :
+## Tasks Deets :
 - Task 1 :
 - Build a Python Cyber Security - Phishing Link Scanner
 - First report Submission in 10 days
